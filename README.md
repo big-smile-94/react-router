@@ -2,6 +2,9 @@
 This repo is going to cover the react router with examples and how to navigate between different pages!
 
 This repo will use react-router-dom v6 or greater
+
+Read up on the v6 https://reacttraining.com/blog/react-router-v6-pre/
+
 Follow the following to implement this project:
 
 https://reactrouter.com/docs/en/v6/getting-started/overview
