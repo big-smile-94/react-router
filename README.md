@@ -3,6 +3,8 @@ This repo is going to cover the react router with examples and how to navigate b
 
 This repo will use react-router-dom v6 or greater
 
+Watch: https://youtu.be/F5eDWtJRYaI
+
 Read up on the v6 https://reacttraining.com/blog/react-router-v6-pre/
 
 Follow the following to implement this project:
